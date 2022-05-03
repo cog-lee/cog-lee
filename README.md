@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @cog-lee
+- 👀 I’m interested in Civic Technology
+- 🌱 I’m currently learning osdev and zfs
